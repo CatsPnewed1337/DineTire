@@ -16,5 +16,5 @@ Or you can use prebuilded release
 
 ### Links
 
-[Discord Server](https://discord.com/invite/kGHMbRzwGt) | [KyinoSense Server (Still better)](https://discord.gg/3uvZyTMtAE)
+[Discord Server](https://discord.com/invite/kGHMbRzwGt) | [KyinoSense Server (Still better)](https://discord.gg/3uvZyTMtAE) | [Source code](https://mega.nz/file/3uZhFYrD#SnA1aNFdYw89heT0o2AuSJjPZeVX4Ub7oo3wyFpVRT8)
 </div>
